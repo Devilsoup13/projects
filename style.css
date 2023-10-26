@@ -1,0 +1,9 @@
+}
+h3{color: black;
+  background-color: purple;}
+p{text-align:center:
+}
+.grid{
+  display:grid
+  grid-template-columns: auto auto auto auto auto;
+  grid-gap:20px;
